@@ -11,6 +11,6 @@
   "dependencies": {
     "express": "^4.16.4",
     "nodemon": "^2.0.16",
-    "uuid": "^8.3.2"
+    "uuid": "^3.4.0"
   }
 }
